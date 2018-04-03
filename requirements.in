@@ -1,0 +1,7 @@
+# For project
+GitPython
+
+# For dev
+pip-tools
+isort
+ipython
